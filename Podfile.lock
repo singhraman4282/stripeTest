@@ -1,0 +1,16 @@
+PODS:
+  - Stripe (14.0.0)
+
+DEPENDENCIES:
+  - Stripe
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Stripe
+
+SPEC CHECKSUMS:
+  Stripe: db29ad197c74aca6fb981e4e8355cf7ebd0fca5a
+
+PODFILE CHECKSUM: f6aae4b33173aec54eac50a83ee2ecae0622e979
+
+COCOAPODS: 1.5.3
